@@ -67,7 +67,11 @@ Anti-theft-sensor/
 
 ## 🎥 Demonstration Video
 
-📽️ [Click to watch the video](image/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
+<div align="center">
+  <a href="https://youtu.be/X5nURXa2nmc" target="_blank">
+    <img src="https://img.youtube.com/vi/X5nURXa2nmc/hqdefault.jpg" alt="Anti-theft Sensor Demo" width="480">
+  </a>
+</div>
 
 ---
 
